@@ -20,16 +20,23 @@
 
 ### Repositório de documentação dos meus estudos com a linguagem SQL.
 
-Neste repositório, criei um servidor na Azure utilizando o banco de dados **AdventureWorks**, da Microsoft.  
+Neste repositório, criei um servidor na Azure que contém o banco de dados **AdventureWorks**, da Microsoft.  
 O objetivo desse rep é criar um ambiente *sandbox* para estudos, onde eu treine e revise. Assim, permitindo que eu construa projetos futuros mais elaborados!
 
-#### Tecnologias utilizadas:
-- Microsoft Azure  
-- DBeaver  
-- SQL Server Management Studio  
-- MySQL Workbench  
+<p align="center">⚙️ Tecnologias utilizadas</p>
 
 <br>
+
+<div align="center">
+  <img src="https://store-images.s-microsoft.com/image/apps.60707.161bd463-9f0d-4108-88b5-1fcd680cb12f.fe1019b0-9c16-4674-93d3-27881e9d721f.a26ff6e5-07e4-4c75-92b8-2ce71f88467b" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTsKBgt67g7V83MUa-6I2Ex33DrnrxBDwMw&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZr_fCzpvLkG7vOInbfb6wxGZwWdSfFxQEw&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
+  <img src="https://thumbs.dreamstime.com/b/%C3%ADcone-logo-design-ui-ou-ux-app-do-base-de-dados-do-sql-96841999.jpg" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
+  <img src="https://img.utdstc.com/icon/f6f/11c/f6f11c75fda63dd454fa5db9610a77cfd6752be4db11010f2e4252551a4abccd:200" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3pvzKui2p5LEMMr2J7o6AERuVxMAjkKHNAQ&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
+  <img src="https://miro.medium.com/v2/1*-hkzF9m5828c-UIaSQNUug.jpeg" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
+
+</div>
 
 <p align="center">
   <img 
