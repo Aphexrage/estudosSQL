@@ -18,10 +18,8 @@
 
 <h1 align="center">🛢 Estudos com SQL</h1>
 
-### Repositório de documentação dos meus estudos com a linguagem SQL.
-
-Neste repositório, criei um servidor na Azure que contém o banco de dados **AdventureWorks**, da Microsoft.  
 O objetivo desse rep é criar um ambiente *sandbox* para estudos, onde eu treine e revise. Assim, permitindo que eu construa projetos futuros mais elaborados!
+Neste repositório, criei um servidor na Azure que contém o banco de dados **AdventureWorks**, da Microsoft.  
 
 <p align="center">⚙️ Tecnologias utilizadas</p>
 
