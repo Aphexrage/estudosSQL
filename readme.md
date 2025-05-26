@@ -18,8 +18,8 @@
 
 <h1 align="center">🛢 Estudos com SQL</h1>
 
-O objetivo desse rep é criar um ambiente *playground* para estudos, onde eu treine e revise. Assim, permitindo que eu construa projetos futuros mais elaborados!
-Neste repositório, criei um servidor na Azure que contém o banco de dados **AdventureWorks**, da Microsoft.  
+O objetivo desse rep é criar um ambiente *playground* para estudos, focado em aprofundar minhas habilidades com SQL e seus asssuntos. Assim, permitindo que eu construa projetos mais elaborados!
+Neste repositório, criei um servidor na Azure que contém o banco de dados **AdventureWorks**, da Microsoft.
 
 <p align="center">⚙️ Tecnologias utilizadas</p>
 
